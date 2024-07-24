@@ -1,0 +1,12 @@
+nextcord
+argparse
+datetime
+colorama
+readchar
+pip==24.0
+mysql-connector-python
+PyNaCl
+youtube_dl
+pytube
+flask
+requests
